@@ -1,0 +1,14 @@
+kacha:
+  name: kacha
+  picture: /assets/images/your-logo.png
+  twitter: kachathestrong1
+  links:
+    - title: Twitter
+      url: https://twitter.com/kachathestrong1
+      icon: fab fa-twitter-square
+    - title: Instagram
+      url: https://instagram.com/seungyoulli
+      icon: fab fa-instagram
+    - title: GitHub
+      url: https://github.com/likachakachali
+      icon: fab fa-github-square  
