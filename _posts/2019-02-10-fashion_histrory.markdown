@@ -8,4 +8,4 @@ tag:
  - fashion
 last_modified_at: 
 ---
-![Screenshot](/assets/img/blog/fashion.jpg){:.lead srcset="/assets/img/blog/fashion.jpg 1920w, /assets/img/blog/fashion.jpg 960w, /assets/img/blog/fashion.jpg 480w" data-width="1920" data-height="1080"}
+![image-center]({{ '/assets/img/blog/fashion.jpg' | absolute_url }}){: .align-center}
